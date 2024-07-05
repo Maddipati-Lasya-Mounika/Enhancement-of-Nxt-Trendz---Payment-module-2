@@ -38,3 +38,15 @@
 }
 
 /* Write your CSS here */
+.remove-btn-card {
+  text-align: right;
+}
+
+.remove-btn {
+  background-color: transparent;
+  color: #0b69ff;
+  font-family: Roboto;
+  border: 0;
+  font-weight: 600;
+  cursor: pointer;
+}
